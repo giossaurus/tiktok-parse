@@ -1,6 +1,6 @@
 # Conversor de JSON do TikTok para CSV
 
-Este projeto contém dois scripts que leem dados de um arquivo JSON, neste caso do TikTok, coletados utilizando instruções do repositório [texto do link](URL) e [texto do link](URL) com Python e posteriormente tratados aqui com Javascript.
+Este projeto contém dois scripts que leem dados de um arquivo JSON, neste caso do TikTok, coletados utilizando instruções do repositório [tiktok-hashtag-analysis](https://github.com/bellingcat/tiktok-hashtag-analysis) e [TikTok-Api](https://github.com/davidteather/TikTok-Api) com Python e posteriormente tratados aqui com Javascript.
 
 Os scripts selecionam campos específicos e escrevem esses dados em um arquivo CSV para posteriormente facilitar a análise dos dados coletados, como número de curtidas, hashtags, popularidade e frequência das hashtags, id do vídeo, comentários e dados gerais sobre a postagem.
 

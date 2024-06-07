@@ -32,6 +32,7 @@ const selectedData = data.map(item => {
 
 // Escrever os dados selecionados em um arquivo CSV
 const csvWriter = createCsvWriter({
+    alwaysQuote: true,
     path: 'output.csv',
     header: [
         { id: 'id', title: 'ID' },
